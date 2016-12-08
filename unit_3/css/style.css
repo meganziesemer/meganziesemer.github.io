@@ -1,8 +1,8 @@
 body{
 	text-align: center;
-	background: url("sidewalk-2.jpg");
+	background: url(sidewalk-2.jpg);
 	background-size: cover;
-	color: blue;
+	color: #255,255,255;
 	font-family: Helvetica;
 
 h1 { text-transform: uppercase;
