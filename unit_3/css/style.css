@@ -2,7 +2,12 @@ body{
 	text-align: center;
 	background: red;
 	background-size: cover;
-	color: #255,255,255;
+	color: rgb(255,255,255);
+	background-repeat: no-repeat;
 	font-family: Helvetica;
 	background-image: url(../images/sidewalk-2.jpg);
+}
+
+img {
+	max-width: 300px;
 }
