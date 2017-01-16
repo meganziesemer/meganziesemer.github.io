@@ -1,12 +1,12 @@
-@import url (<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
-)
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
 body{
 	text-align: center;
 	background: red;
 	background-size: cover;
 	color: rgb(255,255,255);
 	background-repeat: no-repeat;
-	font-family: Helvetica;
+	font-family: 'Rubik', sans-serif;
 	background-image: url(../images/sidewalk-2.jpg);
 }
 
