@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
 
 title{
-	font-size: 300pt}
+	font-size:300pt}
 body{
 	text-align: center;
 	background: red;
@@ -10,6 +10,7 @@ body{
 	background-repeat: no-repeat;
 	font-family: 'Rubik', sans-serif;
 	background-image: url(../images/sidewalk-2.jpg);
+	font-size:40px;
 }
 
 img {
