@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
 
-title{font-size: 300px}
+title{
+	font-size: 300pt}
 body{
 	text-align: center;
 	background: red;
